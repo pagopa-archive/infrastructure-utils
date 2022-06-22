@@ -27,7 +27,7 @@
     "@azure/arm-apimanagement": "^5.1.1",
     "@azure/ms-rest-azure-js": "^2.0.1",
     "@azure/ms-rest-js": "^2.0.5",
-    "@azure/ms-rest-nodeauth": "2.0.4",
+    "@azure/ms-rest-nodeauth": "3.0.8",
     "dotenv": "^10.0.0",
     "p-limit": "^2.2.2",
     "ts-node": "^10.1.0"
